@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 <div>
-  <img src="./Screenshot.png" width="500" height="300"/>
+  <img src="./Screenshot.png" width="800" height="400"/>
   
 </div>
 
