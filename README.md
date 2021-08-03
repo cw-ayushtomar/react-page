@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-![screenshot] (Screenshot.png)
+<div>
+  <img src="./Screenshot.png" width="500" height="300"/>
+  
+</div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
