@@ -10,19 +10,19 @@ function App() {
       <div className="container">
         <div className="row">
 
-      <div className="col-md-1 col-sm-0"></div>
-      <div className="col-md-10 col-sm-12">
-          <CarDetails />
-          <div className="col-md-7 col-sm-12">
-          <ContactCard />
+          <div className="col-md-1 col-sm-0"></div>
+          <div className="col-md-10 col-sm-12">
+            <CarDetails />
+            <div className="col-md-7 col-sm-12">
+              <ContactCard />
+
+            </div>
 
           </div>
-          
+          <div className="col-md-1 col-sm-0"></div>
+        </div>
+
       </div>
-      <div className="col-md-1 col-sm-0"></div>
-      </div>
-      
-    </div>
     </div>
 
   );

@@ -40,6 +40,7 @@ export default function Navbar() {
                   <i className="fas fa-user fa-lg"></i>
                 </a>
               </li>
+              
             </ul>
         </div>
       </nav>
